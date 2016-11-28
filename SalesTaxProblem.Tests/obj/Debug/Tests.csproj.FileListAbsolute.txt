@@ -1,0 +1,24 @@
+C:\Code\Test\SalesTaxProblem\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Code\Test\SalesTaxProblem\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Code\Test\SalesTaxProblem\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Code\Test\SalesTaxProblem\Tests\bin\Debug\Tests.dll
+C:\Code\Test\SalesTaxProblem\Tests\bin\Debug\Tests.pdb
+C:\Code\Test\SalesTaxProblem\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Code\Test\SalesTaxProblem\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Code\Test\SalesTaxProblem\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Code\Test\SalesTaxProblem\Tests\obj\Debug\Tests.dll
+C:\Code\Test\SalesTaxProblem\Tests\obj\Debug\Tests.pdb
+C:\Code\Test\SalesTaxProblem\Tests\bin\Debug\SalesTaxProblem.dll
+C:\Code\Test\SalesTaxProblem\Tests\bin\Debug\SalesTaxProblem.pdb
+C:\Code\Test\SalesTaxProblem - Copy\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Code\Test\SalesTaxProblem - Copy\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Code\Test\SalesTaxProblem - Copy\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Code\Test\SalesTaxProblem - Copy\Tests\bin\Debug\Tests.dll
+C:\Code\Test\SalesTaxProblem - Copy\Tests\bin\Debug\Tests.pdb
+C:\Code\Test\SalesTaxProblem - Copy\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Code\Test\SalesTaxProblem - Copy\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Code\Test\SalesTaxProblem - Copy\Tests\bin\Debug\SalesTaxProblem.dll
+C:\Code\Test\SalesTaxProblem - Copy\Tests\bin\Debug\SalesTaxProblem.pdb
+C:\Code\Test\SalesTaxProblem - Copy\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Code\Test\SalesTaxProblem - Copy\Tests\obj\Debug\Tests.dll
+C:\Code\Test\SalesTaxProblem - Copy\Tests\obj\Debug\Tests.pdb

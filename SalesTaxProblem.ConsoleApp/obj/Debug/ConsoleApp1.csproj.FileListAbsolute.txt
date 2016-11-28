@@ -1,0 +1,16 @@
+C:\Code\Test\SalesTaxProblem\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Code\Test\SalesTaxProblem\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Code\Test\SalesTaxProblem\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Code\Test\SalesTaxProblem\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Code\Test\SalesTaxProblem\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Code\Test\SalesTaxProblem\ConsoleApp1\bin\Debug\SalesTaxProblem.dll
+C:\Code\Test\SalesTaxProblem\ConsoleApp1\bin\Debug\SalesTaxProblem.pdb
+C:\Code\Test\SalesTaxProblem\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Code\Test\SalesTaxProblem - Copy\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Code\Test\SalesTaxProblem - Copy\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Code\Test\SalesTaxProblem - Copy\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Code\Test\SalesTaxProblem - Copy\ConsoleApp1\bin\Debug\SalesTaxProblem.dll
+C:\Code\Test\SalesTaxProblem - Copy\ConsoleApp1\bin\Debug\SalesTaxProblem.pdb
+C:\Code\Test\SalesTaxProblem - Copy\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Code\Test\SalesTaxProblem - Copy\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Code\Test\SalesTaxProblem - Copy\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
