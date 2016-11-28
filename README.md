@@ -52,7 +52,7 @@ A command line is opened and the output is show for the three kind of input prov
 
 1. Go to the project named `SalesTaxProblem.Tests`
 2. Open the file named `SalesTaxProblemTests.cs`
-3. Right click on it an select on the contextual menu `Run Tests`. A VS windows should appear and three green light should be shown.
+3. Right click on it an select on the contextual menu `Run Unit Tests`. A VS windows should appear and three green light should be shown.
 
 ####Without Visual Studio
 
