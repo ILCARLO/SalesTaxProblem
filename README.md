@@ -31,11 +31,13 @@ A command line is opened and the output is show for the three kind of input prov
 
 ### Run tests
 **From Visual Studio**
+
 1. Go to the project named `SalesTaxProblem.Tests`
 2. Open the file named `SalesTaxProblemTests.cs`
 3. Right click on it an select on the contextual menu `Run Tests`. A VS windows should appear and three green light should be shown.
 
 **Without Visual Studio**
+
 1. This operation can be achieved through the cmd script that you can find at the root level named `run_tests.cmd`
 	*  First way - Double click on it in order to run it (a console should pop out and some output code shoudl be shown)
 	* Second way - Open a command line inside the root folder and execute `run_tests.cmd`
