@@ -1,6 +1,5 @@
 ﻿namespace SalesTaxProblem.Domain
 {
-
     public enum ProductType
     {
         Books,

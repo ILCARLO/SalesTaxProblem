@@ -2,6 +2,6 @@
 {
     public interface ITaxable
     {
-        double GetTaxAmount(double price);
+        double GetTaxAmount(double price, int quantity);
     }
 }

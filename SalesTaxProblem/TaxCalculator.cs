@@ -12,15 +12,15 @@ namespace SalesTaxProblem
 
             foreach (var product in products)
             {
-                var taxKindStrategy = TypeTaxStartegyFactory.GetKindStrategy(product.Kind);
-                var kindTax = taxKindStrategy.GetTaxAmount(product.Price);
+                var taxKindStrategy = TypeTaxStartegyFactory.GetTypeStrategy(product.Kind);
+                var kindTax = taxKindStrategy.GetTaxAmount(product.Price, product.Quantity);
 
-                var taxOriginStrategy = OriginTaxStrategyFactory.GetKindStrategy(product.Origin);
-                var originTax = taxOriginStrategy.GetTaxAmount(product.Price);
+                var taxOriginStrategy = OriginTaxStrategyFactory.GetOriginStrategy(product.Origin);
+                var originTax = taxOriginStrategy.GetTaxAmount(product.Price, product.Quantity);
 
                 var currentTax = (kindTax + originTax);
                 
-                receiptContext.AddEntry(product, product.Price + currentTax, currentTax);
+                receiptContext.AddEntryToReceipt(product, currentTax);
             }
 
             return receiptContext.PrintReceipt();

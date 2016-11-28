@@ -6,7 +6,7 @@ namespace SalesTaxProblem.TaxStrategies
     public class OriginTaxStrategyFactory
     {
 
-        public static ITaxable GetKindStrategy(Origin productOrigin)
+        public static ITaxable GetOriginStrategy(Origin productOrigin)
         {
             switch (productOrigin)
             {

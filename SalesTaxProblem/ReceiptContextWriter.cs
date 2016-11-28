@@ -17,14 +17,13 @@ namespace SalesTaxProblem
             _total = 0F;
             _taxes = 0F;
             _boughtProducts = new List<Product>(0);
-
         }
 
-        public void AddEntry(Product product, double finalPrice, double tax)
+        public void AddEntryToReceipt(Product product, double tax)
         {
-            product.Price = finalPrice;
+            product.Price = (product.Price * product.Quantity) + tax;
             _boughtProducts.Add(product);
-            _total += finalPrice;
+            _total += product.Price;
             _taxes += tax;
         }
 

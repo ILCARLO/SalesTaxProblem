@@ -6,7 +6,7 @@ namespace SalesTaxProblem.TaxStrategies
     public class TypeTaxStartegyFactory
     {
 
-        public static ITaxable GetKindStrategy(ProductType productType)
+        public static ITaxable GetTypeStrategy(ProductType productType)
         {
             switch (productType)
             {
