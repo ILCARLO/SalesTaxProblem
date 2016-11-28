@@ -24,9 +24,9 @@ A command line is opened and the output is show for the three kind of input prov
 1. You have to install **Microsoft .NET Framework 4.5.2**
 2. Locate the folder in wich the .NET Framework is present and check for `MSBuild.exe` (I can find it in C:\Program Files (x86)\MSBuild\14.0\Bin). If you have problem locating this program have a look [here](https://social.msdn.microsoft.com/Forums/windowsapps/en-US/23a7dc5d-c337-4eed-8af4-c016def5516e/location-of-msbuildexe?forum=msbuild)
 3. Clean the project
-	* From the folder where you found MsBuild.exe open a cmd and run the following command: `MSBuild.exe "{FOLDER}\SalesTaxProblem.sln" /t:Clean
+	* From the folder where you found MsBuild.exe open a cmd and run the following command: `MSBuild.exe "{FOLDER}\SalesTaxProblem.sln" /t:Clean`
 	* From the same command line run the following command `MSBuild.exe "{FOLDER}\SalesTaxProblem.sln" /t:rebuild
-	You now have cleaned and rebuilded the solution
+	You now have cleaned and rebuilded the solution`
 
 
 ### Run tests
