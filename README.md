@@ -9,6 +9,19 @@ The solution provided is composed by three projects:
 2. **SalesTaxProblem.Console**: This is a simple console app that can be run in order to see in Console the output provided by the core dll
 3. **SalesTaxProblem.Tests**: This is the test dll in which there are the tests used to verify the validity of the solution
 
+The input I choose to implement for this solution is a list of Product that the SalesTaxProblem dll needs to receive in input.
+Here it is an exemple of what this dll expect as input for the elaboration:
+
+>  input1List.Add(new Product(1, "Book", 12.49, ProductType.Books, Origin.Local));
+>  input1List.Add(new Product(1, "CD", 14.99, ProductType.Other, Origin.Local));
+>  input1List.Add(new Product(1, "Choclate", 0.85, ProductType.Food, Origin.Local));
+
+Output of the elaboration is a string that contains, divided into different lines, the whole receipt in the form of
+
+* PRODUCTS
+* TAXES AMOUNT
+* TOTAL AMOUNT
+
 ## How To
 
 This project has been written in **Visual Studio 2017**. 
@@ -52,7 +65,7 @@ A command line is opened and the output is show for the three kind of input prov
 
 1. Go to the project named `SalesTaxProblem.Tests`
 2. Open the file named `SalesTaxProblemTests.cs`
-3. Right click on it an select on the contextual menu `Run Unit Tests`. A VS windows should appear and three green light should be shown.
+3. Right click on it an select on the contextual menu `Run Tests`. A VS windows should appear and three green light should be shown.
 
 ####Without Visual Studio
 
