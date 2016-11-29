@@ -68,8 +68,9 @@ A command line is opened and the output is show for the three kind of input prov
 
 ### Run tests
 
-Every test inside the project named SalestaxProblem.Text contains some comments regerd what is going on.
-You can find a comment
+Every test inside the project named SalestaxProblem.Text contains some comments which describes what is going on.
+In every test method you can find the following comment:
+
 * `// Arrange` which tells us that the code below is just for set up the environment
 * `// Act` which tells us that the code below execute the operation we want to test
 * `//Assert` wich defines everything we have to checkl after the execution.
