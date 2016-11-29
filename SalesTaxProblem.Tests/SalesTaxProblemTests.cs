@@ -1,6 +1,8 @@
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using SalesTaxProblem.Domain;
+using SalesTaxProblem.TaxStrategies;
 using Xunit;
 
 namespace SalesTaxProblem.Tests

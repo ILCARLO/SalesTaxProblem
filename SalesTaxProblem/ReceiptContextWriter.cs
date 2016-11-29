@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
 using System.Threading;
@@ -21,6 +22,11 @@ namespace SalesTaxProblem
 
         public void AddEntryToReceipt(Product product, double tax)
         {
+            if (product == null)
+            {
+                throw new ArgumentNullException(nameof(product));
+            }
+
             product.Price = (product.Price * product.Quantity) + tax;
             _boughtProducts.Add(product);
             _total += product.Price;
