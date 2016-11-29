@@ -1,8 +1,8 @@
-# Welcome to the Sales Tax Project
+# Welcome to my solution for the Sales Tax Problem
 
 ## Overview
 
-This project has been created in a Windows operating system using **Visual Studio 2017**.
+This project is witten in **C#** and it has been created in a **Windows** operating system using **Visual Studio 2017**.
 The solution provided is composed by three projects:
 
 1. **SalestaxProblem**: This is the core dll which contains all the logic
@@ -28,6 +28,14 @@ A version of it has to be installed in order to check and modify the code.
 If you want to clean and rebuild (or change it) VS2017 is needed. An alternative is to use [msbuild.exe](https://msdn.microsoft.com/it-it/library/dd393574.aspx)
 
 ### Run the console app 
+
+The console app shows just the output for each input requested by the exercise.
+If you want to change the input and test the result you can:
+
+1. Update the source code using Visual Studio for the console App
+2. Update with an editor a test that is present in `SalestaxProblemTests` with your new entry 
+	* clean and rebuild the solution
+	* use the script described in section **Run test** for check purposes
 
 #### With Visual Studio
 
@@ -59,6 +67,14 @@ A command line is opened and the output is show for the three kind of input prov
 	You now have cleaned and rebuilded the solution`
 
 ### Run tests
+
+Every test inside the project named SalestaxProblem.Text contains some comments regerd what is going on.
+You can find a comment
+* `// Arrange` which tells us that the code below is just for set up the environment
+* `// Act` which tells us that the code below execute the operation we want to test
+* `//Assert` wich defines everything we have to checkl after the execution.
+
+If you want to add tests of modify the existing one, keep in mind this divions (and copy from the samples!).
 
 #### With Visual Studio
 
