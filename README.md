@@ -77,7 +77,7 @@ In every test method you can find the following comment:
 
 * `// Arrange` which tells us that the code below is just for set up the environment
 * `// Act` which tells us that the code below execute the operation we want to test
-* `//Assert` wich defines everything we have to checkl after the execution.
+* `// Assert` wich defines everything we have to checkl after the execution.
 
 If you want to add tests of modify the existing one, keep in mind this divions (and copy from the samples!).
 
