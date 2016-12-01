@@ -33,28 +33,3 @@ C:\Code\Test\SalesTaxProblem - Copy - Copy\SalesTaxProblem.Tests\bin\Debug\xunit
 C:\Code\Test\SalesTaxProblem - Copy - Copy\SalesTaxProblem.Tests\obj\Debug\SalesTaxProblem.Tests.csprojResolveAssemblyReference.cache
 C:\Code\Test\SalesTaxProblem - Copy - Copy\SalesTaxProblem.Tests\obj\Debug\SalesTaxProblem.Tests.dll
 C:\Code\Test\SalesTaxProblem - Copy - Copy\SalesTaxProblem.Tests\obj\Debug\SalesTaxProblem.Tests.pdb
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\SalesTaxProblem.Tests.dll
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\SalesTaxProblem.Tests.pdb
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\SalesTaxProblem.dll
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\System.Runtime.dll
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\System.Threading.Tasks.dll
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\xunit.abstractions.dll
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\xunit.assert.dll
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\xunit.core.dll
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\xunit.execution.desktop.dll
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\SalesTaxProblem.pdb
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\xunit.abstractions.xml
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\xunit.assert.pdb
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\xunit.assert.xml
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\xunit.core.pdb
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\xunit.core.xml
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\xunit.execution.desktop.pdb
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\bin\Debug\xunit.execution.desktop.xml
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\obj\Debug\SalesTaxProblem.Tests.csprojResolveAssemblyReference.cache
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\obj\Debug\SalesTaxProblem.Tests.dll
-C:\Code\SalesTaxProblem\SalesTaxProblem.Tests\obj\Debug\SalesTaxProblem.Tests.pdb

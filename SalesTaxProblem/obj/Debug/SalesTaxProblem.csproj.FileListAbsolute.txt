@@ -18,9 +18,3 @@ C:\Code\Test\SalesTaxProblem - Copy - Copy\SalesTaxProblem\bin\Debug\SimpleInjec
 C:\Code\Test\SalesTaxProblem - Copy - Copy\SalesTaxProblem\obj\Debug\SalesTaxProblem.csprojResolveAssemblyReference.cache
 C:\Code\Test\SalesTaxProblem - Copy - Copy\SalesTaxProblem\obj\Debug\SalesTaxProblem.dll
 C:\Code\Test\SalesTaxProblem - Copy - Copy\SalesTaxProblem\obj\Debug\SalesTaxProblem.pdb
-C:\Code\SalesTaxProblem\SalesTaxProblem\bin\Debug\SalesTaxProblem.dll
-C:\Code\SalesTaxProblem\SalesTaxProblem\bin\Debug\SalesTaxProblem.pdb
-C:\Code\SalesTaxProblem\SalesTaxProblem\bin\Debug\SimpleInjector.dll
-C:\Code\SalesTaxProblem\SalesTaxProblem\bin\Debug\SimpleInjector.xml
-C:\Code\SalesTaxProblem\SalesTaxProblem\obj\Debug\SalesTaxProblem.dll
-C:\Code\SalesTaxProblem\SalesTaxProblem\obj\Debug\SalesTaxProblem.pdb

@@ -6,11 +6,3 @@ C:\Code\Test\SalesTaxProblem - Copy - Copy\SalesTaxProblem.ConsoleApp\bin\Debug\
 C:\Code\Test\SalesTaxProblem - Copy - Copy\SalesTaxProblem.ConsoleApp\obj\Debug\SalesTaxProblem.ConsoleApp.csprojResolveAssemblyReference.cache
 C:\Code\Test\SalesTaxProblem - Copy - Copy\SalesTaxProblem.ConsoleApp\obj\Debug\SalesTaxProblem.ConsoleApp.exe
 C:\Code\Test\SalesTaxProblem - Copy - Copy\SalesTaxProblem.ConsoleApp\obj\Debug\SalesTaxProblem.ConsoleApp.pdb
-C:\Code\SalesTaxProblem\SalesTaxProblem.ConsoleApp\bin\Debug\SalesTaxProblem.ConsoleApp.exe.config
-C:\Code\SalesTaxProblem\SalesTaxProblem.ConsoleApp\bin\Debug\SalesTaxProblem.ConsoleApp.exe
-C:\Code\SalesTaxProblem\SalesTaxProblem.ConsoleApp\bin\Debug\SalesTaxProblem.ConsoleApp.pdb
-C:\Code\SalesTaxProblem\SalesTaxProblem.ConsoleApp\bin\Debug\SalesTaxProblem.dll
-C:\Code\SalesTaxProblem\SalesTaxProblem.ConsoleApp\bin\Debug\SalesTaxProblem.pdb
-C:\Code\SalesTaxProblem\SalesTaxProblem.ConsoleApp\obj\Debug\SalesTaxProblem.ConsoleApp.csprojResolveAssemblyReference.cache
-C:\Code\SalesTaxProblem\SalesTaxProblem.ConsoleApp\obj\Debug\SalesTaxProblem.ConsoleApp.exe
-C:\Code\SalesTaxProblem\SalesTaxProblem.ConsoleApp\obj\Debug\SalesTaxProblem.ConsoleApp.pdb
