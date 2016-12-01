@@ -9,6 +9,12 @@ namespace SalesTaxProblem.ConsoleApp
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("SalesTaxProblem Copyright(C) 2016  Carlo Menapace ");
+            Console.WriteLine("This program comes with ABSOLUTELY NO WARRANTY.");
+            Console.WriteLine("This is free software, and you are welcome to redistribute it under certain conditions.");
+            Console.WriteLine("For more details, see the license conditions released with this source code");
+            Console.WriteLine("---------------------------------------------------------------------------");
+
             var taxCaluclator = new TaxCalculator();
 
             //input 1
