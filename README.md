@@ -66,7 +66,10 @@ If you want to change the input and test the result you can:
 #### Without Visual Studio
 
 1. From File System go to `{FOLDERNAME}\SalesTaxProblem.Console\bin\Debug`
-2. double click on `SalesTaxProblem.Console.exe`
+2. We have to way to start console app:
+
+	* double click on `SalesTaxProblem.Console.exe`
+	* open a cmd from this folder and execute `SalesTaxProblem.Console.exe`
 
 A command line is opened and the output is show for the three kind of input provided
 
